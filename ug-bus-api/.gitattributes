@@ -1,0 +1,9 @@
+# Use LF for all text files
+* text=auto
+
+# If you want to explicitly set specific file types
+*.php text
+*.blade.php text
+*.js text
+*.css text
+*.html text
